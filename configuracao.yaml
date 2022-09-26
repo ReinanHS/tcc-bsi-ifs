@@ -1,0 +1,82 @@
+---
+#===============================================#
+# Informações principais
+#===============================================#
+instituicao: Universidade/Faculdade do Brasil
+author: Nome do autor
+title: Título do trabalho
+local: Cidade - UF
+date: '2019'
+titulacao: Minha-titulação
+curso: Meu-curso
+programa: Programa de Pós-Graduação em XXX
+area_de_concentracao: Computação
+linha_de_pesquisa: ''
+coorientador: ''
+orientador: Nome-do-Orientador
+avaliador2: Nome-do-Prof-Convidado2
+aprovacao_dia: '1'
+avaliador1: Nome-do-Prof-Convidado1
+avaliador3: ''
+#===============================================#
+# Configurações de textos
+#===============================================#
+resumo: '@import(pages/resumo.md)'
+resumen: '@import(pages/resumen.md)'
+resume: '@import(pages/resume.md)'
+abstract_texto: '@import(pages/abstract.md)'
+proposito: '@import(pages/proposito.md)'
+agradecimentos: '@import(pages/agradecimentos.md)'
+dedicatoria: '@import(pages/dedicatoria.md)'
+epigrafe: ''
+capa_pdf_caminho: ''
+#===============================================#
+# Informações importantes
+#===============================================#
+siglas:
+  - s: ABNT
+    d: Associação Brasileira de Normas Técnicas
+simbolos:
+graduacao: true
+especializacao: false
+mestrado: false
+doutorado: false
+tipo_do_trabalho: Monografia
+incluir_ficha_catalografica: false
+folha_de_aprovacao: false
+projeto: true
+apendices: false
+anexos: false
+errata: false
+referencias_sistema: alf
+lista_ilustracoes: false
+lista_quadros: false
+lista_tabelas: false
+referencias_caminho: config/referencias.bib
+palavras_chave: 'Markup Language, Markdown, Normas da ABNT, Latex, Limarka'
+keywords: ''
+palabras_clave: ''
+mots_cles: ''
+#===============================================#
+# Configurações para o limarka-render-html
+# Link: https://github.com/ReinanHS/limarka-render-html
+#===============================================#
+page_render:
+  published_time: '2022-06-28T18:26:24-03:00'
+  instituicao_website: 'https://www.ifs.edu.br/'
+  social_networks:
+    facebook: reinangabriel
+    instagram: reinanhs
+    twitter: ReinanGabriel9
+    github: reinanhs
+  pages_render:
+    - resumo.md
+    - agradecimentos.md
+  files_type:
+    - pdf
+    - tex
+    - bib
+  files_map:
+    - "xxx-trabalho-academico.tex:trabalho-academico.tex"
+    - "xxx-referencias.bib:referencias.bib"
+---
