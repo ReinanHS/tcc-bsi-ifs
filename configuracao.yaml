@@ -2,13 +2,13 @@
 #===============================================#
 # Informações principais
 #===============================================#
-instituicao: Universidade/Faculdade do Brasil
-author: Nome do autor
-title: Título do trabalho
-local: Cidade - UF
-date: '2019'
-titulacao: Minha-titulação
-curso: Meu-curso
+instituicao: Instituto Federal de Sergipe
+author: Reinan Gabriel Dos Santos Souza
+title: Desenvolvimento e avaliação de um sistema de E-Learning para o ensino de linguagens de programação
+local: Lagarto - SE
+date: '2022'
+titulacao: Bacharel
+curso: Sistemas de informação
 programa: Programa de Pós-Graduação em XXX
 area_de_concentracao: Computação
 linha_de_pesquisa: ''
@@ -22,12 +22,12 @@ avaliador3: ''
 # Configurações de textos
 #===============================================#
 resumo: '@import(pages/resumo.md)'
-resumen: '@import(pages/resumen.md)'
-resume: '@import(pages/resume.md)'
 abstract_texto: '@import(pages/abstract.md)'
 proposito: '@import(pages/proposito.md)'
 agradecimentos: '@import(pages/agradecimentos.md)'
-dedicatoria: '@import(pages/dedicatoria.md)'
+resumen: ''
+resume: ''
+dedicatoria: ''
 epigrafe: ''
 capa_pdf_caminho: ''
 #===============================================#

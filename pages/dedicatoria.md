@@ -1,3 +1,0 @@
-# Dedicatória
-
-teste

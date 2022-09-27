@@ -1,3 +1,5 @@
 # Propósito
 
-O empenho em analisar a revolução dos costumes exige a precisão e a definição dos procedimentos normalmente adotados.
+Trabalho de conclusão de curso apresentado ao
+Instituto Federal de Sergipe como pré-requisito para
+a obtenção do grau de bacharel em sistemas de informação.
