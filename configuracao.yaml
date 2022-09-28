@@ -53,8 +53,8 @@ lista_ilustracoes: false
 lista_quadros: false
 lista_tabelas: false
 referencias_caminho: config/referencias.bib
-palavras_chave: 'Markup Language, Markdown, Normas da ABNT, Latex, Limarka'
-keywords: ''
+palavras_chave: 'gamificação, aprendizagem de programação, eLearning, desenvolvimento'
+keywords: 'gamification, programming learning, eLearning, development'
 palabras_clave: ''
 mots_cles: ''
 #===============================================#
