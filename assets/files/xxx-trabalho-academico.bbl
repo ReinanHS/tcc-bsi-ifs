@@ -5,4 +5,21 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[CNN Brasil]{procura-profissionais}
+\abntrefinfo{CNN Brasil}{CNN BRASIL}{}
+{CNN BRASIL. \emph{Procura por profissionais de tecnologia cresce 671% durante
+  a pandemia}.
+Dispon{\'\i}vel em:
+  \url{https://www.cnnbrasil.com.br/business/procura-por-profissionais-de-tecnologia-cresce-671-durante-a-pandemia/}.
+  Acesso em: 26 set. 2022.}
+
+\bibitem[Müller 2014]{utilizacao-jogos-digitais}
+\abntrefinfo{Müller}{MüLLER}{2014}
+{MüLLER, A.~F. Práticas pedagógicas: o uso da internet como mediadora da
+  aprendizagem.
+\emph{Manancial} --- Repositório Digital da UFSM, Polo de Agudo, RS, Brasil,
+  p.~6--7, 2014.
+Dispon{\'\i}vel em: \url{http://repositorio.ufsm.br/handle/1/11584}. Acesso em:
+  26 set. 2022.}
+
 \end{thebibliography}

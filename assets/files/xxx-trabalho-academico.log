@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.9.18)  27 SEP 2022 23:02
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.9.18)  28 SEP 2022 01:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -800,49 +800,50 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] (./xxx-trabalho-academico.toc) [6
 
-] [7
+]
+
+Package hyperref Warning: Suppressing empty link on input line 415.
+
+[7
 
 
-] [8
+] [8] [9
 
-] [9
+] [10
 
 ] (./xxx-trabalho-academico.bbl (./xxx-trabalho-academico.brf)
 \tf@brf=\write5
 \openout5 = `xxx-trabalho-academico.brf'.
 
-[10
+[11
 
 ]
 bibitemlist
-
-LaTeX Warning: Empty `thebibliography' environment on input line 8.
-
 ) 
 AED: lastpage setting LastPage
-[11
+[12
 
 ]
 \tf@toc=\write6
 \openout6 = `xxx-trabalho-academico.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 453.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 453.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 521.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 521.
 (./xxx-trabalho-academico.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 453.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 453.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 521.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 521.
 Package rerunfilecheck Info: File `xxx-trabalho-academico.brf' has not changed.
 
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 453.
+(rerunfilecheck)             Checksum: C04936171D85D4BA63E76D29C3A80271;110.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 521.
  ) 
 Here is how much of TeX's memory you used:
- 17259 strings out of 481788
- 264463 string characters out of 5937331
- 726035 words of memory out of 5000000
- 34004 multiletter control sequences out of 15000+600000
- 548818 words of font info for 45 fonts, out of 8000000 for 9000
+ 17283 strings out of 481788
+ 265075 string characters out of 5937331
+ 727035 words of memory out of 5000000
+ 34027 multiletter control sequences out of 15000+600000
+ 552174 words of font info for 47 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  42i,11n,45p,279b,467s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on xxx-trabalho-academico.xdv (12 pages, 16612 bytes).
+Output written on xxx-trabalho-academico.xdv (13 pages, 23452 bytes).
