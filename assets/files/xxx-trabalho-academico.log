@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.9.18)  28 SEP 2022 01:03
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.9.18)  4 OCT 2022 23:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -800,11 +800,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] (./xxx-trabalho-academico.toc) [6
 
-]
-
-Package hyperref Warning: Suppressing empty link on input line 415.
-
-[7
+] [7
 
 
 ] [8] [9
@@ -846,4 +842,4 @@ Here is how much of TeX's memory you used:
  16 hyphenation exceptions out of 8191
  42i,11n,45p,279b,467s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on xxx-trabalho-academico.xdv (13 pages, 23452 bytes).
+Output written on xxx-trabalho-academico.xdv (13 pages, 23584 bytes).

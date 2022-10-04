@@ -5,10 +5,10 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
-\bibitem[CNN Brasil]{procura-profissionais}
-\abntrefinfo{CNN Brasil}{CNN BRASIL}{}
+\bibitem[CNN Brasil 2021]{procura-profissionais}
+\abntrefinfo{CNN Brasil}{CNN BRASIL}{2021}
 {CNN BRASIL. \emph{Procura por profissionais de tecnologia cresce 671% durante
-  a pandemia}.
+  a pandemia}. 2021.
 Dispon{\'\i}vel em:
   \url{https://www.cnnbrasil.com.br/business/procura-por-profissionais-de-tecnologia-cresce-671-durante-a-pandemia/}.
   Acesso em: 26 set. 2022.}
