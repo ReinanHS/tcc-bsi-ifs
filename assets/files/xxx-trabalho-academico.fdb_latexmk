@@ -1,25 +1,26 @@
 # Fdb version 3
-["bibtex xxx-trabalho-academico"] 1664929866 "xxx-trabalho-academico.aux" "xxx-trabalho-academico.bbl" "xxx-trabalho-academico" 1664929866
+["bibtex xxx-trabalho-academico"] 1666748205 "xxx-trabalho-academico.aux" "xxx-trabalho-academico.bbl" "xxx-trabalho-academico" 1666748205
   "/usr/share/texlive/texmf-dist/bibtex/bib/abntex2/abntex2-options.bib" 1357081713 5396 4eb260dac60f150ae608d45252853090 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst" 1543183680 60064 0819ac8568f9a482510a46e3a8a6f605 ""
-  "xxx-referencias.bib" 1664929864 724 8eacaafcb46c03e82dafa177c510d7a0 ""
-  "xxx-trabalho-academico.aux" 1664929866 5528 0f2d4f8740197fc061ea5c6b732c2ab5 "xelatex"
+  "xxx-referencias.bib" 1666748203 724 8eacaafcb46c03e82dafa177c510d7a0 ""
+  "xxx-trabalho-academico.aux" 1666748205 5528 0f2d4f8740197fc061ea5c6b732c2ab5 "xelatex"
   (generated)
   "xxx-trabalho-academico.bbl"
   "xxx-trabalho-academico.blg"
-["makeindex xxx-trabalho-academico.idx"] 1664929865 "xxx-trabalho-academico.idx" "xxx-trabalho-academico.ind" "xxx-trabalho-academico" 1664929866
-  "xxx-trabalho-academico.idx" 1664929866 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+["makeindex xxx-trabalho-academico.idx"] 1666748204 "xxx-trabalho-academico.idx" "xxx-trabalho-academico.ind" "xxx-trabalho-academico" 1666748205
+  "xxx-trabalho-academico.idx" 1666748205 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
   (generated)
-  "xxx-trabalho-academico.ind"
   "xxx-trabalho-academico.ilg"
-["xdvipdfmx"] 1664929866 "xxx-trabalho-academico.xdv" "xxx-trabalho-academico.pdf" "xxx-trabalho-academico" 1664929866
-  "xxx-trabalho-academico.xdv" 1664929866 23524 2d1590133f392fbb5de22b8e52d1419a "xelatex"
+  "xxx-trabalho-academico.ind"
+["xdvipdfmx"] 1666748205 "xxx-trabalho-academico.xdv" "xxx-trabalho-academico.pdf" "xxx-trabalho-academico" 1666748205
+  "xxx-trabalho-academico.xdv" 1666748205 26592 09e390b184c268ebec4041a4c2385482 "xelatex"
   (generated)
   "xxx-trabalho-academico.pdf"
-["xelatex"] 1664929866 "xxx-trabalho-academico.tex" "xxx-trabalho-academico.xdv" "xxx-trabalho-academico" 1664929866
+["xelatex"] 1666748205 "xxx-trabalho-academico.tex" "xxx-trabalho-academico.xdv" "xxx-trabalho-academico" 1666748205
   "/etc/texmf/web2c/texmf.cnf" 1663504897 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm" 1136768653 6880 f19b8995b61c334d78fc734065f6b4d4 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm" 1136768653 1352 fa28a7e6d323c65ce7d13d5342ff6be2 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm" 1136768653 6672 e3ab9e37e925f3045c9005e6d1473d56 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm" 1136768653 6944 94c55ad86e6ea2826f78ba2240d50df9 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -109,6 +110,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty" 1574631863 19963 36fd8e818f9f0f32e2db8413d4970122 ""
   "/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd" 1137110629 774 61d7da1e9f9e74989b196d147e623736 ""
   "/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty" 1156702453 857 6c716f26c5eadfb81029fcd6ce2d45e6 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd" 1137110629 619 96f56dc5d1ef1fe1121f1cfeec70ee0c ""
   "/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty" 1369619135 15542 c4cc3164fe24f2f2fbb06eb71b1da4c4 ""
   "/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575674187 9715 b051d5b493d9fe5f4bc251462d039e5f ""
@@ -126,16 +128,16 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1663504916 3336579 eec245397fd2afc5979838999fdb1c7d ""
-  "xxx-trabalho-academico.aux" 1664929866 5528 0f2d4f8740197fc061ea5c6b732c2ab5 "xelatex"
-  "xxx-trabalho-academico.bbl" 1664929866 958 748d4df645f27ef9e78a84a26a8c10c7 "bibtex xxx-trabalho-academico"
-  "xxx-trabalho-academico.brf" 1664929866 110 c04936171d85d4ba63e76d29c3a80271 "xelatex"
-  "xxx-trabalho-academico.ind" 1664929865 0 d41d8cd98f00b204e9800998ecf8427e "makeindex xxx-trabalho-academico.idx"
-  "xxx-trabalho-academico.tex" 1664929864 16691 95e795ea4753c8f5633d9799f445ba43 ""
-  "xxx-trabalho-academico.toc" 1664929866 1889 f0f82de414a488895e97098660daaa4e "xelatex"
+  "xxx-trabalho-academico.aux" 1666748205 5528 0f2d4f8740197fc061ea5c6b732c2ab5 "xelatex"
+  "xxx-trabalho-academico.bbl" 1666748205 958 748d4df645f27ef9e78a84a26a8c10c7 "bibtex xxx-trabalho-academico"
+  "xxx-trabalho-academico.brf" 1666748205 110 c04936171d85d4ba63e76d29c3a80271 "xelatex"
+  "xxx-trabalho-academico.ind" 1666748204 0 d41d8cd98f00b204e9800998ecf8427e "makeindex xxx-trabalho-academico.idx"
+  "xxx-trabalho-academico.tex" 1666748203 18882 b4a0fde13298ccecdee5f9b1c904b698 ""
+  "xxx-trabalho-academico.toc" 1666748205 1889 f0f82de414a488895e97098660daaa4e "xelatex"
   (generated)
-  "xxx-trabalho-academico.aux"
-  "xxx-trabalho-academico.xdv"
-  "xxx-trabalho-academico.toc"
   "xxx-trabalho-academico.brf"
+  "xxx-trabalho-academico.xdv"
   "xxx-trabalho-academico.log"
   "xxx-trabalho-academico.idx"
+  "xxx-trabalho-academico.toc"
+  "xxx-trabalho-academico.aux"
