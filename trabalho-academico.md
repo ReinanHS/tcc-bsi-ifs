@@ -1,7 +1,6 @@
 @import('article/introducao.md')
 @import('article/justificativa.md')
 @import('article/objetivo.md')
-@import('article/objetivos-especificos.md')   
 @import('article/organizacao-da-proposta.md')
 @import('article/fundamentacao-teorica.md')
 @import('article/metodologia.md')
