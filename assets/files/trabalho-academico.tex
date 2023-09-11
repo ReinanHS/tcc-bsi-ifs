@@ -97,10 +97,10 @@
 % ---
 % Informações de dados para CAPA e FOLHA DE ROSTO
 % ---
-\titulo{O uso e avaliação de um sistema de e-learning no ensino de linguagens de
-programação}
+\titulo{Aprimoramento da ferramenta Limarka e documentando seu uso efetivo:
+Facilitando a elaboração de TCCs em Markdown}
 \autor{Reinan Gabriel Dos Santos Souza}
-\data{2022}
+\data{2023}
 \local{Lagarto - SE}
 \orientador{Nome-do-Orientador}
 \coorientador{}
@@ -115,9 +115,10 @@ programação}
 % o nome da instituição e a área de concentração.
 % Esse texto irá compor a Folha de Rosto e Folha de Aprovação.
 \preambulo{
-Trabalho de conclusão de curso apresentado ao Instituto Federal de
-Sergipe como pré-requisito para a obtenção do grau de bacharel em
-sistemas de informação.
+Trabalho de Conclusão de Curso apresentado ao Curso de Graduação em
+Sistemas de Informação do Campus Lagarto do Instituto Federal de
+Educação, Ciência e Tecnologia, como requisito parcial à obtenção do
+grau de bacharel em Sistemas de Informação.
 \newline\textbf{Área de concentração}: Computação.
 }%% fim do preambulo
 
@@ -294,9 +295,22 @@ sistemas de informação.
 % ---
 \begin{agradecimentos}
 
-Aos professores, pelas correções e ensinamentos que me permitiram
-apresentar um melhor desempenho no meu processo de formação profissional
-ao longo do curso.
+Gostaria de expressar meus mais sinceros agradecimentos aos estimados
+professores do Instituto Federal de Educação, Ciência e Tecnologia de
+Sergipe (IFS). Este trabalho de conclusão de curso não teria sido
+possível sem a orientação, o apoio e a sabedoria que vocês generosamente
+compartilharam ao longo da minha jornada acadêmica.
+
+Suas aulas inspiradoras, seu compromisso com a excelência educacional e
+seu incentivo constante foram fundamentais para o meu desenvolvimento
+acadêmico e pessoal. Cada um de vocês desempenhou um papel fundamental
+no meu crescimento como estudante e na minha capacidade de enfrentar os
+desafios acadêmicos.
+
+Este trabalho é uma celebração do aprendizado e da dedicação que
+testemunhei no IFS. Agradeço sinceramente a todos os professores que
+fizeram parte desta jornada, contribuindo para o meu crescimento
+acadêmico e pessoal.
 
 \end{agradecimentos}
 % ---
@@ -314,21 +328,19 @@ ao longo do curso.
 \setlength{\absparsep}{18pt} % ajusta o espaçamento dos parágrafos do resumo
 \begin{resumo}
 
-  A programação é uma das áreas mais populares e importantes da tecnologia
-  da informação. Por isso, muitos buscam uma formação em cursos nessa
-  areá. No entanto, aprender a programar pode ser tornar uma tarefa
-  difícil, estressante e frustrante para iniciantes. Isso se deve à
-  necessidade de memorização e repetição.
-  
-  Nesse contexto, este artigo tem como objetivo desenvolver e avaliar um
-  protótipo de uma plataforma de aprendizagem online que aproveita
-  elementos da gamificação para incentivar os alunos a aprender e resolver
-  problemas de lógica de programação por meio de missões desafiadoras. Os
-  alunos ficam mais motivados, uma vez que suas ações resultariam em
-  recompensas, conquistas e níveis que se correlacionam com seu
-  desempenho.
+  Este trabalho de pesquisa concentra-se na aprimoração da ferramenta
+  Limarka, destinada à elaboração de Trabalhos de Conclusão de Curso
+  (TCCs) em formato Markdown. Além disso, o estudo aborda a criação de
+  documentação abrangente que visa destacar e facilitar o uso efetivo
+  dessa ferramenta. O objetivo principal é melhorar a experiência dos
+  estudantes na elaboração de TCCs, proporcionando uma ferramenta mais
+  eficaz e fornecendo orientações detalhadas por meio da documentação. Ao
+  unir esses esforços de aprimoramento e documentação, busca-se
+  simplificar o processo de criação de TCCs em Markdown, tornando-o mais
+  acessível e eficiente para os acadêmicos.
 
- \textbf{Palavras-chave}: gamificação, aprendizagem de programação, eLearning, desenvolvimento
+ \textbf{Palavras-chave}: Limarka, Markdown, Melhoria, TCCs, Ferramenta, Aprimoramento e
+Produtividade
 \end{resumo}
 
 
@@ -339,23 +351,20 @@ ao longo do curso.
 % resumo em inglês
 \begin{resumo}[Abstract]
  \begin{otherlanguage*}{english}
-   Programming is one of the most popular and important areas of
-   information technology. For this reason, many people seek an education
-   in programming courses. However, learning to program can be a difficult,
-   stressful and frustrating task for beginners. This is due to the need
-   for memorization and repetition.
-   
-   In this context, this paper aims to develop and evaluate a prototype of
-   an online learning platform that takes advantage of gamification
-   elements to encourage students to learn and solve logic programming
-   problems through challenging missions. Students are more motivated since
-   their actions would result in rewards, achievements, and levels that
-   correlate with their performance.
+   This research work focuses on improving the Limarka tool, designed for
+   preparing Course Completion Papers (TCCs) in Markdown format.
+   Furthermore, the study addresses the creation of comprehensive
+   documentation that aims to highlight and facilitate the effective use of
+   this tool. The main objective is to improve students' experience in
+   preparing TCCs, providing a more effective tool and providing detailed
+   guidance through documentation. By combining these improvement and
+   documentation efforts, we seek to simplify the process of creating TCCs
+   in Markdown, making it more accessible and efficient for academics.
 
    \vspace{\onelineskip}
  
    \noindent 
-   \textbf{Keywords}: gamification, programming learning, eLearning, development
+   \textbf{Keywords}: Limarka, Markdown, Improvement, TCCs, Tool, Improvement and Productivity
  \end{otherlanguage*}
 \end{resumo}
 
@@ -382,6 +391,8 @@ ao longo do curso.
 % ---
 \begin{siglas}
   \item[ABNT] Associação Brasileira de Normas Técnicas
+  \item[TCC] Trabalho de Conclusão de Curso
+  \item[BSI] Bacharelado em Sistemas de Informação
 \end{siglas}
 % ---
 
@@ -408,88 +419,73 @@ ao longo do curso.
 \hypertarget{introduuxe7uxe3o}{%
 \chapter{Introdução}\label{introduuxe7uxe3o}}
 
-A programação é uma das áreas mais populares e importantes da tecnologia
-da informação. Além disso, os conhecimentos de programação tornam-se
-cada vez mais valiosos. À medida que as tecnologias se torna mais
-avançada e difundida, a procura por programadores de software
-especializados dispara. Segundo a \cite{procura-profissionais}, a
-procura por profissionais de tecnologia cresceu mais de 670\% só em
-2020. Um dos profissionais mais procurados é o desenvolvedor,
-fundamental para o avanço da revolução tecnológica em curso.
-
-No entanto, pode ser difícil aprender uma linguagem de programação, já
-que o aprendizado pode ser desafiador, estressante e frustrante para
-iniciantes. Isso se deve à complexidade da programação, à necessidade de
-memorização e repetição e à dificuldade de encontrar a solução certa.
-
-Além disso, aprender uma linguagem de programação é demorado e requer
-perseverança para continuar praticando. Isso ocorre porque requer um
-conhecimento de funções e sintaxe específicas sobre a linguagem. Também
-é importante conhecer o hardware do computador e como os computadores
-funcionam. Para se tornar um programador proficiente, você precisa
-gastar muito tempo aprendendo sobre computadores e ciência da
-computação.
-
-Sem esse investimento de tempo, seria muito difícil ou impossível para
-você se tornar um programador proficiente. Caso o aluno não tenha uma
-motivação adequada, é provável ele desista. Neste contexto, elementos
-semelhantes a jogos pode fornecer um ambiente motivador para o processo
-de ensino de uma linguagem de programação.
-
-\begin{quote}
-A utilização dos jogos digitais online, com objetivos e metas
-pré-estabelecidas em sua utilização, reforçam a ideia de atividades com
-intenção de ensino e aprendizagem e não de lazer. Espera-se do professor
-a busca por elementos que sejam adequados e facilitem o modo de aprender
-da criança, utilizando a forma lúdica e atrativa que os jogos
-pedagógicos oferecem aos alunos. \cite[p. 6]{utilizacao-jogos-digitais}
-\end{quote}
-
-Ao analisar o uso de mecanismos de gamificação no ensino de programação,
-nota-se que há uma clara necessidade de analisar a criação de softwares
-web projetados para usar elementos baseados em jogos para engajar os
-alunos, estimular a ação, facilitar o aprendizado. Além disso, o sistema
-deve incluir recursos como tarefas desafiadoras, níveis de
-classificações, recompensas e conquistas.
-
-Este artigo apresenta os resultados da pesquisa e desenvolvimento de um
-sistema de E-Learning voltado ao ensino de linguagens de programação com
-elementos de gamificação. A plataforma foi projetada para facilitar o
-aprendizado de novas linguagens de programação.
-
 \hypertarget{justificativa}{%
 \section{Justificativa}\label{justificativa}}
 
 \hypertarget{objetivo}{%
 \section{Objetivo}\label{objetivo}}
 
-O objetivo é fazer a avaliação e a utilização de uma ferramenta de
-e-learning direcionado ao ensino de programação para alunos do curso de
-BSI do IFS Campus Lagarto, para auxiliar no ensino de uma linguagem de
-programação.
+Nesta seção, serão é apresentado o objetivo geral e os objetivos
+específicos desta pesquisa.
+
+\hypertarget{objetivo-geral}{%
+\subsection{Objetivo Geral}\label{objetivo-geral}}
+
+O objetivo geral deste trabalho é aprimorar a ferramenta Lamarka de
+forma abrangente, tornando-a mais acessível e eficaz para os estudantes
+do curso de Bacharelado em Sistemas de Informação (BSI) do IFS Campus
+Lagarto.
 
 \hypertarget{objetivos-especuxedficos}{%
 \subsection{Objetivos Específicos}\label{objetivos-especuxedficos}}
 
-Para atingir o objetivo geral, os seguintes objetivos devem ser
-formulados:
+A fim de atingir o objetivo geral, são definidos os seguintes objetivos
+específicos:
 
 \begin{itemize}
 \tightlist
 \item
-  Mapear as principais barreiras que os alunos enfrentam ao fazer a
-  disciplina de fundamentos de programação no IFS Campus Lagarto;
+  \textbf{Disponibilizar o Lamarka por meio de um ambiente Docker}:
+  Facilitar o acesso e a instalação da ferramenta, tornando-a disponível
+  em um ambiente Docker de fácil configuração;
 \item
-  Definir uma plataforma que consiga ensinar uma linguagem de
-  programação usando os conceitos de gamificação;
+  \textbf{Desenvolver uma ferramenta de linha de comando}: Criar
+  comandos que simplifiquem o processo de construção de documentos em
+  Markdown usando o Lamarka;
 \item
-  Criar exercícios introdutórios para a linguagem de programação Java na
-  plataforma escolhida;
+  \textbf{Implementar um pipeline no Github Actions}: Estabelecer uma
+  estrutura de pipeline automatizado para compilar projetos Lamarka de
+  maneira eficiente no GitHub;
 \item
-  Disponibilizar a solução que foi implementada para os alunos;
+  \textbf{Habilitar exportação para HTML no Github Pages}: Aprimorar a
+  capacidade do Lamarka de exportar documentos em Markdown para o
+  formato HTML, tornando-os acessíveis no Github Pages;
 \item
-  Criar um laboratório virtual com alunos do IFS para testar a
-  ferramenta.
+  \textbf{Integrar funcionalidade de importação de arquivos markdown}:
+  Adicionar a capacidade de importar documentos Markdown existentes,
+  simplificando o processo de compilação do Lamarka;
+\item
+  \textbf{Reestruturar a organização de arquivos do template}: Melhorar
+  a estrutura de arquivos do template para torná-lo mais intuitivo e
+  adequado aos padrões do IFS Campus Lagarto;
+\item
+  \textbf{Conduzir testes rigorosos}: Realizar testes rigorosos para
+  garantir que as melhorias no Lamarka atendam às necessidades dos
+  estudantes, garantindo sua eficácia;
+\item
+  \textbf{Produzir uma documentação abrangente}: Criar uma documentação
+  detalhada, abrangendo desde a instalação até a formatação de
+  documentos em conformidade com os padrões do IFS Campus Lagarto;
+\item
+  \textbf{Promover a adoção e divulgação}: Incentivar ativamente a
+  utilização da ferramenta aprimorada e da documentação entre os
+  estudantes do curso de BSI, buscando uma ampla adoção do Lamarka como
+  ferramenta eficaz para a elaboração de TCCs no IFS;
+\item
+  \textbf{Avaliar o impacto das melhorias}: Realizar uma análise crítica
+  para avaliar o impacto das melhorias no Lamarka na eficiência e na
+  qualidade da produção de TCCs, coletando feedback dos usuários e
+  ajustando a ferramenta conforme necessário.
 \end{itemize}
 
 \hypertarget{organizauxe7uxe3o-da-proposta}{%
@@ -500,42 +496,6 @@ formulados:
 
 \hypertarget{metodologia}{%
 \chapter{Metodologia}\label{metodologia}}
-
-Partir da problematização percebeu-se a necessidade dessa solução em
-disciplinas introdutórias de programação no curso de BSI no IFS Campus
-Lagarto. Alguns levantamentos e pesquisas foram feitos para entender
-quais ferramentas atualmente estão disponíveis no mercado e quais podem
-ser utilizadas em sala de aula para atender os objetivos propostos nesse
-trabalho.
-
-Após fazer o levantamento, descobriu-se que as ferramentas que estão
-disponíveis no mercado não atendem a todos os objetivos propostos para
-este trabalho. Por conta disso, houve a necessidade de desenvolver um
-sistema que atendesse a todos os requisitos descritos nos objetivos do
-trabalho.
-
-As etapas, feitas para chegar a essa conclusão, foram as seguintes:
-
-\begin{itemize}
-\tightlist
-\item
-  Etapa I: Levantamento bibliográfico sobre ensino de linguagens de
-  programação através da gamificação;
-\item
-  Etapa II: Entender o contexto e o domínio no qual o sistema será
-  utilizado;
-\item
-  Etapa III: Pesquisa por sistemas a serem utilizados para alcançar os
-  objetivos;
-\item
-  Etapa IV: Desenvolver o próprio sistema para atingir todos os
-  objetivos;
-\item
-  Etapa V: Definir tecnologias que podem ser utilizadas para desenvolver
-  o sistema;
-\item
-  Etapa VI: Fazer a apresentação dos resultados.
-\end{itemize}
 
 \hypertarget{cronograma-de-atividades}{%
 \chapter{Cronograma de Atividades}\label{cronograma-de-atividades}}

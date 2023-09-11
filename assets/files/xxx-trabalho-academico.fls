@@ -1,4 +1,4 @@
-PWD /tmp/TMP_8a419f9cd9519b89b4725c59ca79b8b6
+PWD /tmp/TMP_1a142a5e86df932014690c3f2b504f90
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
@@ -216,7 +216,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
 INPUT xxx-trabalho-academico.toc
 INPUT xxx-trabalho-academico.toc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
@@ -227,7 +226,6 @@ INPUT xxx-trabalho-academico.brf
 INPUT ./xxx-trabalho-academico.brf
 INPUT ./xxx-trabalho-academico.brf
 OUTPUT xxx-trabalho-academico.brf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
 OUTPUT xxx-trabalho-academico.toc
 INPUT xxx-trabalho-academico.aux
 INPUT ./xxx-trabalho-academico.brf
