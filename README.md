@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://redeacqua.com.br/wp-content/uploads/2018/10/IFS-Logomarca-IDEAL.png" alt="ifs-logo" width="30%">
+<img src="./imagens/logo-ifs-transparent.png" alt="ifs-logo" width="20%">
 
-# O uso e avaliação de um sistema de e-learning no ensino de linguagens de programação
+# Aprimoramento da ferramenta Limarka e documentando seu uso efetivo: Facilitando a elaboração de TCCs em Markdown
 
 Este é um trabalho que está sendo desenvolvido e mantido nesse repositório do GitHub. Qualquer contribuição ou sugestão pode ser apresentada e discutida em formato de Issue.
 
@@ -15,26 +15,15 @@ Este é um trabalho que está sendo desenvolvido e mantido nesse repositório do
 
 ## Resumo
 
-A programação é uma das áreas mais populares e importantes da tecnologia da informação. Por
-isso, muitos buscam uma formação em cursos nessa areá. No entanto, aprender a programar
-pode ser tornar uma tarefa difícil, estressante e frustrante para iniciantes. Isso se deve à necessidade de memorização e repetição. Nesse contexto, este artigo tem como objetivo desenvolver e
-avaliar um protótipo de uma plataforma de aprendizagem online que aproveita elementos da gamificação para incentivar os alunos a aprender e resolver problemas de lógica de programação
-por meio de missões desafiadoras. Os alunos ficam mais motivados, uma vez que suas ações
-resultariam em recompensas, conquistas e níveis que se correlacionam com seu desempenho.
+Este trabalho de pesquisa concentra-se na aprimoração da ferramenta Limarka, destinada à elaboração de Trabalhos de Conclusão de Curso (TCCs) em formato Markdown. Além disso, o estudo aborda a criação de documentação abrangente que visa destacar e facilitar o uso efetivo dessa ferramenta. O objetivo principal é melhorar a experiência dos estudantes na elaboração de TCCs, proporcionando uma ferramenta mais eficaz e fornecendo orientações detalhadas por meio da documentação. Ao unir esses esforços de aprimoramento e documentação, busca-se simplificar o processo de criação de TCCs em Markdown, tornando-o mais acessível e eficiente para os acadêmicos.
 
-**Palavras-chave**: gamificação, aprendizagem de programação, eLearning, desenvolvimento
+**Palavras-chave**: Limarka, Markdown, Melhoria, TCCs
 
 ## Abstract
 
-Programming is one of the most popular and important areas of information technology. For this
-reason, many people seek an education in programming courses. However, learning to program
-can be a difficult, stressful and frustrating task for beginners. This is due to the need for memorization and repetition. In this context, this paper aims to develop and evaluate a prototype of an
-online learning platform that takes advantage of gamification elements to encourage students to
-learn and solve logic programming problems through challenging missions. Students are more
-motivated since their actions would result in rewards, achievements, and levels that correlate
-with their performance.
+This research work focuses on improving the Limarka tool, designed for preparing Course Completion Papers (TCCs) in Markdown format. Furthermore, the study addresses the creation of comprehensive documentation that aims to highlight and facilitate the effective use of this tool. The main objective is to improve students' experience in preparing TCCs, providing a more effective tool and providing detailed guidance through documentation. By combining these improvement and documentation efforts, we seek to simplify the process of creating TCCs in Markdown, making it more accessible and efficient for academics.
 
-**Keywords**: gamification, programming learning, eLearning, development
+**Keywords**: Limarka, Markdown, Improvement, TCCs
 
 ## Agradecimentos
 

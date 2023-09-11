@@ -4,12 +4,12 @@
 #===============================================#
 instituicao: Instituto Federal de Sergipe
 author: Reinan Gabriel Dos Santos Souza
-title: O uso e avaliação de um sistema de e-learning no ensino de linguagens de programação
+title: 'Aprimoramento da ferramenta Limarka e documentando seu uso efetivo: Facilitando a elaboração de TCCs em Markdown'
 local: Lagarto - SE
-date: '2022'
+date: '2023'
 titulacao: Bacharel
 curso: Sistemas de informação
-programa: Programa de Pós-Graduação em XXX
+programa: Programa de Pós-Graduação em 2023
 area_de_concentracao: Computação
 linha_de_pesquisa: ''
 coorientador: ''
@@ -36,6 +36,10 @@ capa_pdf_caminho: ''
 siglas:
   - s: ABNT
     d: Associação Brasileira de Normas Técnicas
+  - s: TCC
+    d: Trabalho de Conclusão de Curso
+  - s: BSI
+    d: Bacharelado em Sistemas de Informação
 simbolos:
 graduacao: true
 especializacao: false
@@ -53,8 +57,8 @@ lista_ilustracoes: false
 lista_quadros: false
 lista_tabelas: false
 referencias_caminho: config/referencias.bib
-palavras_chave: 'gamificação, aprendizagem de programação, eLearning, desenvolvimento'
-keywords: 'gamification, programming learning, eLearning, development'
+palavras_chave: 'Limarka, Markdown, Melhoria, TCCs, Ferramenta, Aprimoramento e Produtividade'
+keywords: 'Limarka, Markdown, Improvement, TCCs, Tool, Improvement and Productivity'
 palabras_clave: ''
 mots_cles: ''
 #===============================================#

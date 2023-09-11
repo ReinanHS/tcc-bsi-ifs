@@ -1,11 +1,4 @@
 # Abstract
 
-Programming is one of the most popular and important areas of information technology. For this reason, many people seek 
-an education in programming courses. However, learning to program can be a difficult, stressful and frustrating task 
-for beginners. This is due to the need for memorization and repetition.
-
-In this context, this paper aims to develop and evaluate a prototype of an online learning platform that takes advantage 
-of gamification elements to encourage students to learn and solve logic programming problems through challenging missions. 
-Students are more motivated since their actions would result in rewards, achievements, and levels that correlate
-with their performance.
+This research work focuses on improving the Limarka tool, designed for preparing Course Completion Papers (TCCs) in Markdown format. Furthermore, the study addresses the creation of comprehensive documentation that aims to highlight and facilitate the effective use of this tool. The main objective is to improve students' experience in preparing TCCs, providing a more effective tool and providing detailed guidance through documentation. By combining these improvement and documentation efforts, we seek to simplify the process of creating TCCs in Markdown, making it more accessible and efficient for academics.
 
