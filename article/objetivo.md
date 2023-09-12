@@ -4,15 +4,7 @@ Nesta seção, serão é apresentado o objetivo geral e os objetivos específico
 
 ### Objetivo Geral
 
-<!-- 
-
-A primeira versão:
-
-O objetivo central deste trabalho consiste em aprimorar a funcionalidade da ferramenta Lamarka, visando simplificar sua utilização. Adicionalmente, pretende-se elaborar uma documentação abrangente que sirva de guia para a aplicação eficaz desta ferramenta na elaboração de trabalhos de conclusão de curso, seguindo os padrões estabelecidos pelo IFS Campus Lagarto, especificamente para o curso de Bacharelado em Sistemas de Informação (BSI).
-
--->
-
-O objetivo geral deste trabalho é aprimorar a ferramenta Lamarka de forma abrangente, tornando-a mais acessível e eficaz para os estudantes do curso de Bacharelado em Sistemas de Informação (BSI) do IFS Campus Lagarto.
+O objetivo geral deste trabalho é construir um ecossistema, com manual de instruções, para a ferramenta Lamarka que permita a escrita de trabalhos cientificos de forma mais acessível e eficaz pelos os estudantes do curso de Bacharelado em Sistemas de Informação (BSI) do IFS Campus Lagarto.
 
 ### Objetivos Específicos
 
@@ -28,4 +20,3 @@ A fim de atingir o objetivo geral, são definidos os seguintes objetivos especí
 - **Produzir uma documentação abrangente**: Criar uma documentação detalhada, abrangendo desde a instalação até a formatação de documentos em conformidade com os padrões do IFS Campus Lagarto.
 - **Promover a adoção e divulgação**: Incentivar ativamente a utilização da ferramenta aprimorada e da documentação entre os estudantes do curso de BSI, buscando uma ampla adoção do Lamarka como ferramenta eficaz para a elaboração de TCCs no IFS.
 - **Avaliar o impacto das melhorias**: Realizar uma análise crítica para avaliar o impacto das melhorias no Lamarka na eficiência e na qualidade da produção de TCCs, coletando feedback dos usuários e ajustando a ferramenta conforme necessário. 
-
