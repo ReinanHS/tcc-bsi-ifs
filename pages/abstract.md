@@ -1,4 +1,3 @@
 # Abstract
 
 This research work focuses on improving the Limarka tool, designed for preparing Course Completion Papers (TCCs) in Markdown format. Furthermore, the study addresses the creation of comprehensive documentation that aims to highlight and facilitate the effective use of this tool. The main objective is to improve students' experience in preparing TCCs, providing a more effective tool and providing detailed guidance through documentation. By combining these improvement and documentation efforts, we seek to simplify the process of creating TCCs in Markdown, making it more accessible and efficient for academics.
-

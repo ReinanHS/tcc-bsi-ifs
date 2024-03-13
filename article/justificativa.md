@@ -1,4 +1,4 @@
-## Justificativa
+# Justificativa
 
 A elaboração de trabalhos de conclusão de curso (TCCs) representa uma etapa fundamental na jornada acadêmica dos estudantes de graduação, exigindo a aplicação de conhecimentos adquiridos ao longo do curso e a produção de um documento formal que atenda a rigorosos padrões acadêmicos. Neste contexto, a ferramenta Limarka emerge como uma solução inovadora para a elaboração de TCCs em formato Markdown, prometendo uma abordagem mais simplificada e eficiente em comparação com os editores de texto tradicionais. No entanto, a adoção da ferramenta Limarka ainda enfrenta desafios significativos, principalmente devido à falta de documentação abrangente e suporte para as necessidades específicas dos estudantes do curso de Bacharelado em Sistemas de Informação do Instituto Federal de Sergipe (IFS), Campus Lagarto.
 
