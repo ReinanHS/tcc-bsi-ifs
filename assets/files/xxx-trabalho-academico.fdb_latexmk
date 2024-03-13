@@ -1,22 +1,22 @@
 # Fdb version 3
-["bibtex xxx-trabalho-academico"] 1694556779 "xxx-trabalho-academico.aux" "xxx-trabalho-academico.bbl" "xxx-trabalho-academico" 1694556780
+["bibtex xxx-trabalho-academico"] 1710369487 "xxx-trabalho-academico.aux" "xxx-trabalho-academico.bbl" "xxx-trabalho-academico" 1710369487
   "/usr/share/texlive/texmf-dist/bibtex/bib/abntex2/abntex2-options.bib" 1357081713 5396 4eb260dac60f150ae608d45252853090 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst" 1543183680 60064 0819ac8568f9a482510a46e3a8a6f605 ""
-  "xxx-referencias.bib" 1694556777 724 8eacaafcb46c03e82dafa177c510d7a0 ""
-  "xxx-trabalho-academico.aux" 1694556780 5168 894f1efbef47fd565e66bbdbf364a28f "xelatex"
+  "xxx-referencias.bib" 1710369485 724 8eacaafcb46c03e82dafa177c510d7a0 ""
+  "xxx-trabalho-academico.aux" 1710369487 6360 c168c0a6f2de1a62190387247951cbfa "xelatex"
   (generated)
-  "xxx-trabalho-academico.bbl"
   "xxx-trabalho-academico.blg"
-["makeindex xxx-trabalho-academico.idx"] 1694556778 "xxx-trabalho-academico.idx" "xxx-trabalho-academico.ind" "xxx-trabalho-academico" 1694556780
-  "xxx-trabalho-academico.idx" 1694556779 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "xxx-trabalho-academico.bbl"
+["makeindex xxx-trabalho-academico.idx"] 1710369486 "xxx-trabalho-academico.idx" "xxx-trabalho-academico.ind" "xxx-trabalho-academico" 1710369487
+  "xxx-trabalho-academico.idx" 1710369487 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
   (generated)
   "xxx-trabalho-academico.ind"
   "xxx-trabalho-academico.ilg"
-["xdvipdfmx"] 1694556780 "xxx-trabalho-academico.xdv" "xxx-trabalho-academico.pdf" "xxx-trabalho-academico" 1694556780
-  "xxx-trabalho-academico.xdv" 1694556780 23636 29f28bc8a78d4a14e3670266d0badbe3 "xelatex"
+["xdvipdfmx"] 1710369487 "xxx-trabalho-academico.xdv" "xxx-trabalho-academico.pdf" "xxx-trabalho-academico" 1710369487
+  "xxx-trabalho-academico.xdv" 1710369487 33912 c07f06110e2201146b24e20a48a1252e "xelatex"
   (generated)
   "xxx-trabalho-academico.pdf"
-["xelatex"] 1694556779 "xxx-trabalho-academico.tex" "xxx-trabalho-academico.xdv" "xxx-trabalho-academico" 1694556780
+["xelatex"] 1710369487 "xxx-trabalho-academico.tex" "xxx-trabalho-academico.xdv" "xxx-trabalho-academico" 1710369487
   "/etc/texmf/web2c/texmf.cnf" 1663504897 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm" 1136768653 6880 f19b8995b61c334d78fc734065f6b4d4 ""
@@ -127,16 +127,16 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1663504916 3336579 eec245397fd2afc5979838999fdb1c7d ""
-  "xxx-trabalho-academico.aux" 1694556780 5168 894f1efbef47fd565e66bbdbf364a28f "xelatex"
-  "xxx-trabalho-academico.bbl" 1694556779 227 d84c02311c5966f0b465e2fbb354c9df "bibtex xxx-trabalho-academico"
-  "xxx-trabalho-academico.brf" 1694556780 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "xxx-trabalho-academico.ind" 1694556778 0 d41d8cd98f00b204e9800998ecf8427e "makeindex xxx-trabalho-academico.idx"
-  "xxx-trabalho-academico.tex" 1694556777 17441 a7647bce3c3a43e7cf3f55b423d905a7 ""
-  "xxx-trabalho-academico.toc" 1694556780 1973 efa4b158392a95e93607c59ab1623288 "xelatex"
+  "xxx-trabalho-academico.aux" 1710369487 6360 c168c0a6f2de1a62190387247951cbfa "xelatex"
+  "xxx-trabalho-academico.bbl" 1710369487 227 d84c02311c5966f0b465e2fbb354c9df "bibtex xxx-trabalho-academico"
+  "xxx-trabalho-academico.brf" 1710369487 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "xxx-trabalho-academico.ind" 1710369486 0 d41d8cd98f00b204e9800998ecf8427e "makeindex xxx-trabalho-academico.idx"
+  "xxx-trabalho-academico.tex" 1710369485 23425 ebf0ea5967babd49d56adf5f0783e69f ""
+  "xxx-trabalho-academico.toc" 1710369487 2322 9ba287299fd2ab3dacfb2c5f49bf9fed "xelatex"
   (generated)
-  "xxx-trabalho-academico.aux"
-  "xxx-trabalho-academico.xdv"
   "xxx-trabalho-academico.log"
   "xxx-trabalho-academico.toc"
-  "xxx-trabalho-academico.brf"
   "xxx-trabalho-academico.idx"
+  "xxx-trabalho-academico.brf"
+  "xxx-trabalho-academico.aux"
+  "xxx-trabalho-academico.xdv"
