@@ -5,29 +5,60 @@
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{7}{chapter.1}%
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{8}{chapter.1}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Justificativa}}{8}{chapter.2}%
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Justificativa}}{9}{chapter.2}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Objetivo}}{9}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Objetivo Geral}{9}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Objetivos Específicos}{9}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Organização da Proposta}{10}{section.3.3}%
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Objetivo}}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Objetivo Geral}{10}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Objetivos Específicos}{10}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Organização da Proposta}{11}{section.3.3}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Fundamentação Teórica}}{11}{chapter.4}%
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Fundamentação Teórica}}{12}{chapter.4}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Metodologia}}{12}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Abordagem da pesquisa}{12}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Desenvolvimento da ferramenta}{12}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Estratégias de teste}{12}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Documentação}{12}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Avaliação e feedback}{13}{section.5.5}%
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Metodologia}}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Abordagem da pesquisa}{13}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Desenvolvimento da ferramenta}{13}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Estratégias de teste}{13}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Documentação}{13}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Avaliação e feedback}{14}{section.5.5}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Cronograma de Atividades}}{14}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Atividades realizadas}{14}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Atividades previstas}{14}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Cronograma}{14}{section.6.3}%
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Desenvolvimento das melhorias}}{15}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Fork e melhorias no Template}{15}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Organização da estrutura de pastas}{15}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Criação do diretório .vscode}{16}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Criação do diretório build}{17}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Criação do diretório .github}{18}{subsection.6.1.4}%
+\contentsline {subsection}{\numberline {6.1.5}Criação do diretório .devcontainer}{18}{subsection.6.1.5}%
+\contentsline {subsection}{\numberline {6.1.6}Criação do diretório pages}{18}{subsection.6.1.6}%
+\contentsline {subsection}{\numberline {6.1.7}Criação do diretório docs}{19}{subsection.6.1.7}%
+\contentsline {section}{\numberline {6.2}Implementação da funcionalidade de importação de arquivos em Markdown}{20}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Repositório Docker}{21}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Criação e automação do repositório limarka-docker}{21}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Atualizações de segurança e publicação no Docker Hub}{21}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Integração das imagens Docker no limarka-template-tcc}{21}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}Integração com GitHub Codespaces}{22}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Configuração do template para uso no GitHub Codespaces}{22}{subsection.6.4.1}%
+\contentsline {section}{\numberline {6.5}DevOps e automação}{23}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Implementação da Pipeline no GitHub Actions}{23}{subsection.6.5.1}%
+\contentsline {subsubsection}{\numberline {6.5.1.1}Validação dos arquivos Markdown}{23}{subsubsection.6.5.1.1}%
+\contentsline {subsubsection}{\numberline {6.5.1.2}Compilação do documento com Limarka}{24}{subsubsection.6.5.1.2}%
+\contentsline {subsubsection}{\numberline {6.5.1.3}Geração automática do PDF e publicação no GitHub Pages}{24}{subsubsection.6.5.1.3}%
+\contentsline {section}{\numberline {6.6}Documentação}{25}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Metodologia Doc as Code}{26}{subsection.6.6.1}%
+\contentsline {subsubsection}{\numberline {6.6.1.1}Criação do Repositório limarka-template-docs}{26}{subsubsection.6.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.6.1.2}Vantagens de manter a documentação atualizada junto com o código}{27}{subsubsection.6.6.1.2}%
+\contentsline {subsection}{\numberline {6.6.2}Aspectos cobertos pela documentação}{27}{subsection.6.6.2}%
+\contentsline {subsubsection}{\numberline {6.6.2.1}Guia de instalação}{27}{subsubsection.6.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.6.2.2}Guia para iniciantes}{28}{subsubsection.6.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.6.2.3}Guia de elementos}{28}{subsubsection.6.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.6.2.4}Guias avançados}{29}{subsubsection.6.6.2.4}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Cronograma de Atividades}}{31}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Atividades realizadas}{31}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Atividades previstas}{31}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Cronograma}{31}{section.7.3}%
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{15}{section*.12}%
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{32}{section*.12}%
