@@ -2,11 +2,11 @@
 
 Para garantir que a ferramenta Limarka atendesse às necessidades dos alunos de maneira mais eficaz, foram implementadas diversas melhorias. Essas melhorias visaram aprimorar a estrutura do projeto, facilitar a configuração e o uso da ferramenta, além de integrar novas funcionalidades que aumentassem a eficiência no desenvolvimento de trabalhos acadêmicos. A seguir, detalhamos os principais aprimoramentos realizados.
 
-## Fork e melhorias no Template
+## Fork e melhorias no Template
 
 Com o objetivo de aprimorar a ferramenta Limarka, realizei o fork do projeto [abntex/trabalho-academico-limarka](https://github.com/abntex/trabalho-academico-limarka), criando o repositório [limarka-template-tcc](https://github.com/ReinanHS/limarka-template-tcc) no GitHub. Essa ação foi motivada pela necessidade de melhorar o modelo original e adicionar novas funcionalidades que pudessem ajudar os alunos a escreverem seus trabalhos acadêmicos com maior facilidade.
 
-### Organização da estrutura de pastas
+### Organização da estrutura de pastas
 
 A estrutura de pastas original do modelo `abntex/trabalho-academico-limarka` era funcional, mas apresentava algumas limitações em termos de organização e facilidade de uso. No fork `limarka-template-tcc`, reorganizei as pastas de forma a tornar o projeto mais intuitivo para os usuários. Agora, os arquivos são distribuídos em diretórios específicos para cada tipo de conteúdo, como páginas, compilações, configurações e imagens, facilitando a navegação pelo projeto e a localização de arquivos específicos.
 
@@ -19,12 +19,12 @@ Veja a estrutura de cada diretório e suas respectivas funções:
 - **config**: Contém arquivos de configuração que determinam o comportamento de várias partes do projeto, como parâmetros de compilação.
 - **docs**: Hospeda a documentação do projeto, que pode incluir manuais do usuário, especificações técnicas e guias de instalação.
 - **imagens**: Repositório para as imagens utilizadas no documento, ajudando a organizar os recursos visuais.
-- **pages**: Diretório que contém os arquivos markdow utilizadas no documento.
+- **pages**: Diretório que contém os arquivos markdown utilizados no documento.
 - **templates**: Armazena os templates LaTeX que definem a aparência e estrutura do documento final.
 
 Graças a essa reorganização, colaboradores e usuários que buscam modificar, personalizar ou contribuir para o projeto encontrarão uma estrutura mais organizada e moderna em comparação a vários repositórios existentes no GitHub. Isso possibilita a configuração de diversos recursos dentro do projeto.
 
-### Criação do diretório .vscode
+### Criação do diretório .vscode
 
 A criação deste diretório permitiu adicionar várias configurações que facilitam o uso do projeto no Visual Studio Code, uma das ferramentas sugeridas na documentação para trabalhar com este repositório. Dentro deste diretório, foram configurados snippets, tasks e a sugestão de instalação de extensões que se integram ao projeto, facilitando a escrita dos trabalhos acadêmicos.
 
@@ -54,13 +54,13 @@ Foi criada uma pasta exclusiva para a compilação dos resultados da ferramenta 
 - Melhora a organização, tornando mais fácil identificar e resolver problemas de build.
 - Simplifica a integração com ferramentas de CI/CD, que podem focar diretamente no diretório de build.
 
-### Criação do diretório .github
+### Criação do diretório .github
 
 Este diretório foi criado para adicionar as configurações do [GitHub Actions](https://docs.github.com/pt/actions), integrando o projeto com pipelines de CI/CD. A integração com CI/CD é crucial para automatizar testes, builds e deploys, garantindo que o documento esteja sempre em um estado funcional. Além disso, centraliza templates de issues e pull requests, facilitando a contribuição e a manutenção do projeto.
 
-### Criação do diretório .devcontainer
+### Criação do diretório .devcontainer
 
-O diretório `.devcontainer` foi criado para configurar o [GitHub Codespaces](https://docs.github.com/pt/codespaces/overview). Esta configuração permite que os usuários desenvolvam e testem o projeto em um ambiente pré-configurado diretamente no navegador, eliminando a necessidade de configuração local. Isso proporciona uma experiência de desenvolvimento consistente e reduz problemas de compatibilidade entre diferentes ambientes de desenvolvimento.
+O diretório `.devcontainer` foi criado para configurar o [GitHub Codespaces](https://docs.github.com/pt/codespaces/overview). Esta configuração permite que os usuários desenvolvam e testem o projeto em um ambiente pré-configurado diretamente no navegador, eliminando a necessidade de configuração local. Isso proporciona uma experiência de desenvolvimento consistente e reduz problemas de compatibilidade entre diferentes ambientes de desenvolvimento.
 
 ### Criação do diretório pages
 
@@ -86,7 +86,7 @@ Este diretório foi criado para seguir a filosofia "*documentação como código
 - Facilidade de contribuição, permitindo que desenvolvedores atualizem a documentação junto com as mudanças de código.
 - Centralização de informações, tornando mais fácil para os usuários encontrar e entender as funcionalidades da ferramenta.
 
-## Implementação da funcionalidade de importação de arquivos em Markdown
+## Implementação da funcionalidade de importação de arquivos em Markdown
 
 Com as melhorias na organização da estrutura de pastas, surgiu a necessidade de dividir o documento dentro dessa nova organização. No modelo original, o documento era escrito a partir do arquivo `trabalho-academico.md`, que continha todas as informações do documento a ser processado pela ferramenta Limarka. Dessa forma, os alunos precisavam escrever todo o conteúdo de seu TCC em um único arquivo, o que podia ser desorganizado e difícil de gerenciar.
 
@@ -112,7 +112,7 @@ O repositório [limarka-docker](https://github.com/ReinanHS/limarka-docker) foi 
 
 Para garantir que as imagens Docker estivessem sempre atualizadas, foi automatizado o processo de construção e publicação das imagens. A automação foi configurada para gerar novas versões das imagens sempre que mudanças fossem feitas no repositório, garantindo que as melhorias e correções fossem rapidamente disponibilizadas aos usuários.
 
-### Atualizações de segurança e publicação no Docker Hub
+### Atualizações de segurança e publicação no Docker Hub
 
 Manter as imagens Docker atualizadas é crucial para garantir a segurança e a estabilidade da ferramenta. No repositório [limarka-docker](https://github.com/ReinanHS/limarka-docker), foram implementadas automatizações que verificam e aplicam atualizações de segurança regularmente. Isso assegura que as imagens Docker estejam sempre protegidas contra vulnerabilidades e utilizem as versões mais recentes dos pacotes e dependências.
 
@@ -172,7 +172,7 @@ Após a compilação do documento, a próxima etapa envolve a geração de uma p
 
 O job `build-page` depende da conclusão bem-sucedida do job `build-limarka`. Ele baixa os artefatos compilados e utiliza o `limarka-render-html` para gerar a versão HTML do documento. A estrutura HTML é então preparada para ser publicada, garantindo que todas as partes do documento estejam corretamente formatadas e prontas para visualização na web.
 
-O job final de `deploy`, realiza a publicação do conteúdo gerado no GitHub Pages. Utilizando a action `JamesIves/github-pages-deploy-action`, esse job faz o deploy do diretório build para o GitHub Pages, tornando o documento acadêmico acessível pela internet. Esta etapa garante que a versão mais recente do documento esteja sempre disponível para visualização pública, facilitando o acesso e a disseminação do trabalho acadêmico.
+O job final de `deploy` realiza a publicação do conteúdo gerado no GitHub Pages. Utilizando a action `JamesIves/github-pages-deploy-action`, esse job faz o deploy do diretório build para o GitHub Pages, tornando o documento acadêmico acessível pela internet. Esta etapa garante que a versão mais recente do documento esteja sempre disponível para visualização pública, facilitando o acesso e a disseminação do trabalho acadêmico.
 
 ## Documentação
 
