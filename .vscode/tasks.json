@@ -11,14 +11,14 @@
                 "command": "sh",
                 "args": [
                     ".vscode/scripts/builder.sh",
-                    "${relativeFile}",
+                    "${relativeFile}"
                 ]
             },
             "osx": {
                 "command": "sh",
                 "args": [
                     ".vscode/scripts/builder.sh",
-                    "${relativeFile}",
+                    "${relativeFile}"
                 ]
             },
             "windows": {
@@ -30,6 +30,6 @@
                 "isDefault": true
             },
             "problemMatcher": []
-        },
+        }
     ]
 }
